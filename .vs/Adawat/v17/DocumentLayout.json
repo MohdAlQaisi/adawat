@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Adawat\\Adawat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B454FB3-74E4-4260-8C9F-24996715A497}|Adawat.API\\Adawat.API.csproj|e:\\projects\\adawat\\adawat\\adawat.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B454FB3-74E4-4260-8C9F-24996715A497}|Adawat.API\\Adawat.API.csproj|solutionrelative:adawat.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B454FB3-74E4-4260-8C9F-24996715A497}|Adawat.API\\Adawat.API.csproj|e:\\projects\\adawat\\adawat\\adawat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B454FB3-74E4-4260-8C9F-24996715A497}|Adawat.API\\Adawat.API.csproj|solutionrelative:adawat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Adawat\\Adawat\\Adawat.API\\Program.cs",
+              "RelativeDocumentMoniker": "Adawat.API\\Program.cs",
+              "ToolTip": "E:\\Projects\\Adawat\\Adawat\\Adawat.API\\Program.cs",
+              "RelativeToolTip": "Adawat.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:48:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\Projects\\Adawat\\Adawat\\Adawat.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Adawat.API\\Controllers\\TestController.cs",
+              "ToolTip": "E:\\Projects\\Adawat\\Adawat\\Adawat.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Adawat.API\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:30:43.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

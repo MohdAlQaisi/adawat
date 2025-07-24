@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Adawat.API.Controllers.TestController",
+    "Method": "Get",
+    "RelativePath": "Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Adawat.API.Controllers.TestController",
+    "Method": "Generate",
+    "RelativePath": "Test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Adawat.API.Controllers.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
